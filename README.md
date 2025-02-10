@@ -34,7 +34,7 @@ In CMD:
 
 
 
-To change download model path in environment :
+## To change download model path in environment :
 
 VariableName : OLLAMA_MODELS
 
@@ -42,6 +42,6 @@ VariableValue : E:\OllamaModel\models      (download model path)
 
 
 
-To Run On cuda :
+## To Run On cuda :
 
-- pip install torch torchvision coiled
+-pip install torch torchvision coiled
