@@ -42,12 +42,17 @@ VariableValue : E:\OllamaModel\models      (download model path)
 
 
 
-## To Run On cuda :
+### To Run On cuda :
+## For CPU Only:
+-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+## For CUDA 12.1:
+-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+## For CUDA 11.8:
+-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
--pip install torch torchvision coiled
 
 
-## To Add Virtual memory 
+### To Add Virtual memory 
 
 To increase your virtual memory (pagefile) to 400 GB, follow these steps:
 
