@@ -31,3 +31,9 @@ Put this code in deepseekr1-python in your new python file
 
 In CMD:
 	- streamlit run deepseekr1-python.py
+
+
+
+To change download model path in environment :
+VariableName : OLLAMA_MODELS
+VariableValue : E:\OllamaModel\models      (download model path)
