@@ -3,7 +3,7 @@ DeepSeek in local
 
 https://www.youtube.com/watch?v=LMO9H0NVUv0
 
-
+### 
 1. Install ollama from : https://ollama.com/download
 2. Make sure ollama is in computer Path
 3. Open CMD:
