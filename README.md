@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=LMO9H0NVUv0
 
 ### Put this code in deepseekr1-python in your new python file 
 
-### In CMD:
+### To Run In CMD:
 	-streamlit run deepseekr1-python.py
 
 
